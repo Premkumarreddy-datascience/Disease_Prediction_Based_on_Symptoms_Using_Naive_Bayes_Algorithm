@@ -151,8 +151,6 @@ Confidence: 87.5%
 - 📈 Better visualization of prediction confidence and data analysis.
 - 🧠 Expand to deep learning models for rare disease prediction.
 
----
-
 ## 📌 Conclusion
 
 This project successfully demonstrates how machine learning—specifically Naive Bayes—can aid in fast and accurate disease prediction. While promising, it should complement and not replace expert clinical diagnosis.
