@@ -124,7 +124,6 @@ Predicted Disease: Typhoid
 Confidence: 87.5%
 ```
 
-![Output Graph](outputs/confusion_matrix.png)
 
 ---
 
