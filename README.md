@@ -8,17 +8,17 @@ A machine learning project that predicts diseases based on input symptoms using 
 ## Table of Contents
 
 - [About the Project](#about-the-project)
-- [Scope](#-scope)
-- [Algorithm Used](#-algorithm-used)
-- [Project Architecture](#-project-architecture)
-- [Project Structure](#-project-structure)
-- [Installation & Setup](#️-installation--setup)
-- [Execution Steps](#-execution-steps)
-- [Sample Output](#-sample-output)
-- [Testing](#-testing)
-- [Results](#-results)
-- [Future Enhancements](#-future-enhancements)
-- [Conclusion](#-conclusion)
+- [Scope](#scope)
+- [Algorithm Used](#algorithm-used)
+- [Project Architecture](#project-architecture)
+- [Project Structure](#project-structure)
+- [Installation & Setup](#️installation--setup)
+- [Execution Steps](#execution-steps)
+- [Sample Output](#sample-output)
+- [Testing](#testing)
+- [Results](#results)
+- [Future Enhancements](#future-enhancements)
+- [Conclusion](#conclusion)
 
 ---
 
