@@ -7,7 +7,7 @@ A machine learning project that predicts diseases based on input symptoms using 
 
 ## Table of Contents
 
-- [About the Project](#-about-the-project)
+- [About the Project](#about-the-project)
 - [Scope](#-scope)
 - [Algorithm Used](#-algorithm-used)
 - [Project Architecture](#-project-architecture)
