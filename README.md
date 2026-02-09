@@ -1,34 +1,34 @@
 
-# 🩺 Disease Prediction Based on Symptoms using Naive Bayes
+# Disease Prediction Based on Symptoms using Naive Bayes
 
 A machine learning project that predicts diseases based on input symptoms using the Naive Bayes algorithm. This tool aids in early diagnosis and medical assistance by analyzing symptoms and providing a probable condition.
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
-- [📖 About the Project](#-about-the-project)
-- [🎯 Scope](#-scope)
-- [🧠 Algorithm Used](#-algorithm-used)
-- [🧱 Project Architecture](#-project-architecture)
-- [📦 Project Structure](#-project-structure)
-- [⚙️ Installation & Setup](#️-installation--setup)
-- [🚀 Execution Steps](#-execution-steps)
-- [📊 Sample Output](#-sample-output)
-- [🧪 Testing](#-testing)
-- [✅ Results](#-results)
-- [🔮 Future Enhancements](#-future-enhancements)
-- [📌 Conclusion](#-conclusion)
+- [About the Project](#-about-the-project)
+- [Scope](#-scope)
+- [Algorithm Used](#-algorithm-used)
+- [Project Architecture](#-project-architecture)
+- [Project Structure](#-project-structure)
+- [Installation & Setup](#️-installation--setup)
+- [Execution Steps](#-execution-steps)
+- [Sample Output](#-sample-output)
+- [Testing](#-testing)
+- [Results](#-results)
+- [Future Enhancements](#-future-enhancements)
+- [Conclusion](#-conclusion)
 
 ---
 
-## 📖 About the Project
+## About the Project
 
 This project leverages the **Naive Bayes classification algorithm** to predict potential diseases based on a user's symptoms. It helps healthcare professionals and patients by offering a fast and intelligent diagnosis tool built with Python and machine learning libraries.
 
 ---
 
-## 🎯 Scope
+## Scope
 
 - Early diagnosis and preventive care.
 - Assistance for healthcare providers.
@@ -37,7 +37,7 @@ This project leverages the **Naive Bayes classification algorithm** to predict p
 
 ---
 
-## 🧠 Algorithm Used
+## Algorithm Used
 
 The system uses:
 - ✅ **Naive Bayes Classifier** – for accurate probabilistic disease prediction.
@@ -45,7 +45,7 @@ The system uses:
 
 ---
 
-## 🧱 Project Architecture
+## Project Architecture
 
 1. **Data Collection** – From Kaggle dataset.
 2. **Preprocessing** – Handling null values, normalization.
@@ -55,7 +55,7 @@ The system uses:
 
 ---
 
-## 📦 Project Structure
+## Project Structure
 
 ```
 Disease_Prediction_Project/
@@ -77,9 +77,9 @@ Disease_Prediction_Project/
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
-### 🛠 Prerequisites
+### Prerequisites
 
 - Python 3.10.2
 - Jupyter Notebook
@@ -90,7 +90,7 @@ Disease_Prediction_Project/
   - seaborn
   - scikit-learn
 
-### 🧰 Installation
+### Installation
 
 ```bash
 # Clone this repository
@@ -106,7 +106,7 @@ jupyter notebook
 
 ---
 
-## 🚀 Execution Steps
+## Execution Steps
 
 1. Launch Jupyter Notebook.
 2. Open `Disease_Prediction.ipynb`.
@@ -116,7 +116,7 @@ jupyter notebook
 
 ---
 
-## 📊 Sample Output
+## Sample Output
 
 ```
 Input: ['fever', 'fatigue', 'headache']
@@ -127,16 +127,16 @@ Confidence: 87.5%
 
 ---
 
-## 🧪 Testing
+## Testing
 
-- ✅ Unit Testing – Model accuracy and input validation
-- ✅ Integration Testing – Pipeline and algorithm connectivity
-- ✅ System Testing – End-to-end checks with real data
-- ✅ Evaluation – Accuracy, Sensitivity, Specificity
+- Unit Testing – Model accuracy and input validation
+- Integration Testing – Pipeline and algorithm connectivity
+- System Testing – End-to-end checks with real data
+- Evaluation – Accuracy, Sensitivity, Specificity
 
 ---
 
-## ✅ Results
+## Results
 
 - Achieved **~90% accuracy** with Naive Bayes
 - Naive Bayes outperformed Random Forest in speed and simplicity
@@ -144,14 +144,14 @@ Confidence: 87.5%
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
-- 🌐 Web-based front-end for live symptom input.
-- 🧬 Integration with genetic data for improved accuracy.
-- 📈 Better visualization of prediction confidence and data analysis.
-- 🧠 Expand to deep learning models for rare disease prediction.
+- Web-based front-end for live symptom input.
+- Integration with genetic data for improved accuracy.
+- Better visualization of prediction confidence and data analysis.
+- Expand to deep learning models for rare disease prediction.
 
-## 📌 Conclusion
+## Conclusion
 
 This project successfully demonstrates how machine learning—specifically Naive Bayes—can aid in fast and accurate disease prediction. While promising, it should complement and not replace expert clinical diagnosis.
 
